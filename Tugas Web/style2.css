@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+
+.title {
+    font-family: "Berkshire Swash", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.jumbotron {
+    background-image: url(img/jumbotron.jpg);
+    background-size: cover;
+    height: 750px;
+    text-align: center;
+    margin-top: -11px;
+}
+
+.jumbotron .display-1 {
+    color: white;
+    margin-top: 5px;
+}
+
+.jumbotron p {
+    color: white;
+    font-size: 25px;
+}
+
+.jumbotron .my-4 {
+    border-color: #f05f40;
+    width: 70px;
+    border-width: 3px;
+}
+
+.jumbotron .btn {
+    background-color: #f05f40;
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 20px;
+}
+
+.jumbotron img {
+    margin-top: 100px;
+}
+
+.h3 {
+    color: black;
+    margin-top: 11px;
+}
+
+#about {
+    background-color: #60a3bc;
+}
+
+#about p {
+    text-align: justify;
+}
+
+#hobby p {
+    text-align: justify;
+}
+
+#hobby {
+    background-color: #a2d9ff;
+}
+
+#service {
+    background-color: #60a3bc;
+}
+
+#contact {
+    background-color: #a2d9ff;
+}
+
+footer {
+    background-color: #60a3bc;
+}
